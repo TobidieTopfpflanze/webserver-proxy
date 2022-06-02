@@ -1,0 +1,10 @@
+{
+  "defaultTarget": "example.com",
+  "port": 80,
+  "pipes:": {
+    "*": {
+      "port": 8000
+    }
+  }
+}
+

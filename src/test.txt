@@ -1,0 +1,7 @@
+51 + 50 // Jan und nach hause
+61 + 61 * 3 // schule
+6
+
+32 // Dirlewang Fabuuuuuuuuuuuu
+
+= 51 + 50 + 6 + (61 + 61) * 3 + 32
